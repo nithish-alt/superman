@@ -1,0 +1,6 @@
+{
+  "name": "SURAKSHA - AI Disaster Preparedness & Emergency Management System",
+  "description": "Comprehensive disaster preparedness, campus evacuation routing, student-teacher tracking, and emergency response system for Indian schools and colleges.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
